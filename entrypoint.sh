@@ -7,7 +7,7 @@ fi
 echo ${VER}
 
 if [[ -z "${PASSWORD}" ]]; then
-  PASSWORD="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  PASSWORD="1c32c05a-a347-481a-9f10-786d569f93f5"
 fi
 echo ${PASSWORD}
 
@@ -17,12 +17,12 @@ fi
 
 
 if [[ -z "${V2_Path}" ]]; then
-  V2_Path="/s233"
+  V2_Path="/1c32c05a-a347-481a-9f10-786d569f93f5"
 fi
 echo ${V2_Path}
 
 if [[ -z "${QR_Path}" ]]; then
-  QR_Path="/qr_img"
+  QR_Path="/0cd5de22-7aa4-4a28-b462-7182b23adbe5"
 fi
 echo ${QR_Path}
 
