@@ -9,7 +9,7 @@
     },
      "PASSWORD": {
       "description": "shadowsocks的密码，可以使用uuid作为密码（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "1c32c05a-a347-481a-9f10-786d569f93f5"
     },
 
     "VER": {
@@ -19,17 +19,17 @@
 
      "V2_Path": {
       "description": "Path路径，默认/s233,为了安全你也可以使用uuid替换s233，/不能少。如果开启反代，不要与反代uri重复",
-      "value": "/s233"
+      "value": "/1c32c05a-a347-481a-9f10-786d569f93f5"
     },
 
      "AppName": {
       "description": "请输入最上方填写的App Name，用于生成配置和二维码，如果不想生成输入no",
-      "value": "no"
+      "value": "Shadowsocks+V2Ray-plugin快速部署"
     },
 
     "QR_Path": {
        "description": "二维码和配置链接路径，默认qr_img，为了保密性你也可以使用uuid,但是不能与V2_Path相同。如AppName变量为no，此变量没有作用",
-       "value": "/qr_img"
+       "value": "/0cd5de22-7aa4-4a28-b462-7182b23adbe5"
      },
 
      "ProxySite": {
